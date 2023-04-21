@@ -14,6 +14,12 @@ sqlalchemy==2.0.6
 git clone https://github.com/DavidKimDY/sqlalchemy_error_when_Mapped_JSON.git
 ```
 
+### cd
+```
+cd sqlalchemy_error_when_Mapped_JSON
+```
+
+
 ### venv
 ```
 python3 -m venv .venv
