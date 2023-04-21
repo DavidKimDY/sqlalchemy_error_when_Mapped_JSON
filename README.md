@@ -22,7 +22,7 @@ source .venv/bin/activate
 
 ### install
 ```
-pip istall -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Reproduce
