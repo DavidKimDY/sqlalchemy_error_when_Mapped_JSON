@@ -16,7 +16,7 @@ git clone https://github.com/DavidKimDY/sqlalchemy_error_when_Mapped_JSON.git
 
 ### venv
 ```
-python3 -m .venv venv
+python3 -m venv .venv
 source .venv/bin/activate
 ```
 
